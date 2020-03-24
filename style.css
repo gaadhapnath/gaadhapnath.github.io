@@ -1,0 +1,12 @@
+body {
+background: url('bg.jpg')no-repeat;
+background-size: cover;
+font-family: 'Times New Roman';
+color: white;
+}
+
+ul{ margin: 0px
+ padding: 0px;
+list-style: none;
+}
+
